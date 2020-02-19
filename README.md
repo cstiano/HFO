@@ -30,7 +30,7 @@ make install
 Note: There is no need for 'sudo' with 'make install' - the files will be installed below the starting directory.
 
 #### Python Install [required for python interface]
-From the main HFO directory: `pip install [--user] .`
+From the main HFO directory: `pip install --user .`
 
 ## Demos
 From the main HFO directory:
